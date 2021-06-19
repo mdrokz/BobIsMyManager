@@ -2,5 +2,9 @@
 
 i do some light coding, currently looking into java, koltin and C#
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BobIsMyManager&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BobIsMyManager&langs_count=5&theme=tokyonight)]()
+![Metrics](https://metrics.lecoq.io/BobIsMyManager?template=classic&isocalendar=1&stars=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=3&config.timezone=America%2FChicago)
+
+### Contact Information
+
+ - Discord: BobIsMyMan#3004
+ - Telegram: https://t.me/BobIsMyManager
