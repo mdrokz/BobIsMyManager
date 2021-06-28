@@ -6,5 +6,5 @@ i do some light coding, currently looking into java, koltin and C#
 
 ### Contact Information
 
- [- Discord](https://discord.c99.nl/widget/theme-1/776849973127675955.png)
+ ![Discord](https://discord.c99.nl/widget/theme-1/776849973127675955.png)
  - Telegram: https://t.me/BobIsMyManager
