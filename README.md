@@ -2,7 +2,9 @@
 
 This is my github profile
 
-![Visitor Count](https://profile-counter.glitch.me/BobIsMyManager/count.svg)
+
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=unsmxrt&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
+</p>
 
 ### Github Stats
 
